@@ -1,0 +1,17 @@
+12,0 I(A) / Corriente de fase media
+16.0 I1(A) / Fase 1 - corriente
+20.0 I2(A) / Fase 2 - corriente
+24.0 I3(A) / Fase 3 - corriente
+28,0 U(V) / Tensión de línea media
+32.0 U12(V) / Fase 1~2 - voltaje de línea
+36.0 U23(V) / Fase 2~3 - tensión de línea
+40.0 U31(V) / Fase 3~1 - voltaje de línea
+44.0 Up(V) / Tensión media de fase
+48.0 U1(V) / Fase 1 - tensión
+52.0 U2(V) / Fase 2 - tensión
+56.0 U3(V) / Fase 3 - tensión
+60,0 S(kVA) / Potencia aparente total
+64,0 P(kW) / Potencia activa total
+68,0 Q(kVAr) / Potencia reactiva total
+72,0 PF / Factor de potencia total
+76.0 f(Hz) / Frecuencia
